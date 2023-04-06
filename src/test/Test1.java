@@ -20,7 +20,7 @@ public class Test1 {
 		System.out.println(score + "은(는) 잘못된 점수입니다.");
 	}
 	
-	else {
+	else { 
 		if(score >= 90) {
 			grade = 'A'; 
 		}
